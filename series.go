@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/mxrkw/tvdb/models"
+	"github.com/mxrk/tvdb/models"
 )
 
 // SeriesResponse represents a paginated series response.

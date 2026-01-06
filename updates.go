@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/mxrkw/tvdb/models"
+	"github.com/mxrk/tvdb/models"
 )
 
 // UpdatesOptions are options for getting updates.

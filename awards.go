@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/mxrkw/tvdb/models"
+	"github.com/mxrk/tvdb/models"
 )
 
 // GetAllAwards returns a list of award base records.

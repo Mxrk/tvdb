@@ -3,7 +3,7 @@ package tvdb
 import (
 	"context"
 
-	"github.com/mxrkw/tvdb/models"
+	"github.com/mxrk/tvdb/models"
 )
 
 // GetAllLanguages returns a list of language records.

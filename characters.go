@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/mxrkw/tvdb/models"
+	"github.com/mxrk/tvdb/models"
 )
 
 // GetCharacterBase returns a character base record.

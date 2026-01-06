@@ -7,7 +7,7 @@ A Go client library for [TheTVDB API V4](https://thetvdb.com/).
 ## Installation
 
 ```bash
-go get github.com/mxrkw/tvdb
+go get github.com/mxrk/tvdb
 ```
 
 ## Quick Start
@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/mxrkw/tvdb"
+	"github.com/mxrk/tvdb"
 )
 
 func main() {

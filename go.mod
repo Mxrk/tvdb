@@ -1,3 +1,3 @@
-module github.com/mxrkw/tvdb
+module github.com/mxrk/tvdb
 
 go 1.25.4
